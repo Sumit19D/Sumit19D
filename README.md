@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Sumit Dorugade 👋
+### Network Engineer
 
-<!--
-**Sumit19D/Sumit19D** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Transitioning from 8 years in telecom networking to Cloud and DevOps engineering.  
+I specialize in AWS, Linux, Docker, Kubernetes, Terraform, Jenkins, and automation.
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+- **Cloud:** AWS (EC2, S3, VPC, IAM, CloudWatch)
+- **DevOps:** Docker, Kubernetes, Terraform, Jenkins, GitHub Actions
+- **Programming:** Bash, Linux (Basics)
+- **Networking:** GPON, OLT/ONT, Routing, Switching, VLA
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact
+📍 Mumbai, India  
+📧 Email: sumitdorugade1@gmail.com
+🔗 LinkedIn:  www.linkedin.com/in/sumit-dorugade-306813119
+
