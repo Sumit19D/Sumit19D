@@ -1,7 +1,7 @@
 # Hi, I'm Sumit Dorugade 👋
-## DevOps Enthusiast | AWS + Terraform + CI/CD Automation
+## 🚀 DevOps Enthusiast | AWS + Terraform + CI/CD Automation
 
-🚀 AWS & DevOps Engineer (in transition) with 8+ years of telecom network engineering experience. Skilled in cloud computing, containerization, IaC, CI/CD automation, and Linux administration. Solid foundation in GPON technologies, routing, switching, and infrastructure operations. Actively developing cloud automation and DevOps capabilities to support modern infrastructure and platform engineering teams.
+AWS & DevOps Engineer (in transition) with 8+ years of telecom network engineering experience. Skilled in cloud computing, containerization, IaC, CI/CD automation, and Linux administration. Solid foundation in GPON technologies, routing, switching, and infrastructure operations. Actively developing cloud automation and DevOps capabilities to support modern infrastructure and platform engineering teams.
 
 ## 🔧 Tech Stack
 - **Cloud:** AWS (EC2, S3, VPC, IAM, CloudWatch)
