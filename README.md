@@ -1,14 +1,13 @@
 # Hi, I'm Sumit Dorugade 👋
-### Network Engineer
+## DevOps Enthusiast | AWS + Terraform + CI/CD Automation
 
-🚀 Transitioning from 8 years in telecom networking to Cloud and DevOps engineering.  
-I specialize in AWS, Linux, Docker, Kubernetes, Terraform, Jenkins, and automation.
+🚀 AWS & DevOps Engineer (in transition) with 8+ years of telecom network engineering experience. Skilled in cloud computing, containerization, IaC, CI/CD automation, and Linux administration. Solid foundation in GPON technologies, routing, switching, and infrastructure operations. Actively developing cloud automation and DevOps capabilities to support modern infrastructure and platform engineering teams.
 
 ## 🔧 Tech Stack
 - **Cloud:** AWS (EC2, S3, VPC, IAM, CloudWatch)
 - **DevOps:** Docker, Kubernetes, Terraform, Jenkins, GitHub Actions
 - **Programming:** Bash, Linux (Basics)
-- **Networking:** GPON, OLT/ONT, Routing, Switching, VLA
+- **Networking:** GPON, OLT/ONT, Routing, Switching, VLAN
 
 ## 📫 Contact
 📍 Mumbai, India  
