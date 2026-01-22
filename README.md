@@ -6,9 +6,7 @@ AWS & DevOps Engineer (in transition) with 8+ years of telecom network engineeri
 
 ## 🔧 Tech Stack
 <h3 align="center">☁️ AWS Cloud </h3>
-<p align="center">
-  ![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white)
-</p>
+![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white)
 
 <h3 align="center">🛠️ DevOps Toolset</h3>
 
