@@ -6,7 +6,7 @@ AWS & DevOps Engineer (in transition) with 8+ years of telecom network engineeri
 ## 🔧 Tech Stack
 - **Cloud:** AWS (EC2, S3, VPC, IAM, CloudWatch)
 - **DevOps:**
-  ![Docker](https://img.shields.io/badge/Docker-blue?logo=docker) ![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?logo=kubernetes)
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
    Kubernetes, Terraform, Jenkins, GitHub Actions
 - **Programming:** Bash, Linux (Basics)
 - **Networking:** GPON, OLT/ONT, Routing, Switching, VLAN
