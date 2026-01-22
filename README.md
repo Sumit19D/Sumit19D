@@ -21,7 +21,10 @@ AWS & DevOps Engineer (in transition) with 8+ years of telecom network engineeri
 
 - **Programming:** Bash <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40"/>, Linux (Basics) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
 - **Networking:** GPON, OLT/ONT, Routing, Switching, VLAN
-<img src="https://cdn.simpleicons.org/huawei/FF0000" width="40" title="OLT"/>
+<img src="https://cdn.simpleicons.org/nokia/FF0000" width="40" title="OLT"/>
+<img src="https://www.svgrepo.com/show/354436/router.svg" width="40" title="ONT"/>
+<img src="https://www.svgrepo.com/show/354437/router-alt.svg" width="40" title="Router"/>
+<img src="https://www.svgrepo.com/show/354434/switch.svg" width="40" title="Switch"/>
 
 ## 📫 Contact
 📍 Mumbai, India  
