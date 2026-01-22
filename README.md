@@ -5,7 +5,7 @@
 AWS & DevOps Engineer (in transition) with 8+ years of telecom network engineering experience. Skilled in cloud computing, containerization, IaC, CI/CD automation, and Linux administration. Solid foundation in GPON technologies, routing, switching, and infrastructure operations. Actively developing cloud automation and DevOps capabilities to support modern infrastructure and platform engineering teams.
 
 ## 🔧 Tech Stack
-- **Cloud:** AWS (EC2, S3, VPC, IAM, CloudWatch)
+- **Cloud:** AWS (EC2 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ec2/ec2-original.svg" width="40"/>, S3 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/s3/s3-original.svg" width="40"/>, VPC <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vpc/vpc-original.svg" width="40"/>, IAM <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/iam/iam-original.svg" width="40"/>, CloudWatch <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudwatch/cloudwatch-original.svg" width="40"/>)
 <h3 align="center">🛠️ DevOps Toolset</h3>
 
 <p align="center">
