@@ -25,6 +25,9 @@ AWS & DevOps Engineer (in transition) with 8+ years of telecom network engineeri
 <img src="https://www.svgrepo.com/show/354436/router.svg" width="40" title="ONT"/>
 <img src="https://www.svgrepo.com/show/354437/router-alt.svg" width="40" title="Router"/>
 <img src="https://www.svgrepo.com/show/354434/switch.svg" width="40" title="Switch"/>
+<p align="center">
+  OLT &nbsp;•&nbsp; ONT &nbsp;•&nbsp; Router &nbsp;•&nbsp; Switch &nbsp;•&nbsp; VLAN
+</p>
 
 ## 📫 Contact
 📍 Mumbai, India  
