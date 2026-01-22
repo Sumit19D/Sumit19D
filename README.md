@@ -6,14 +6,8 @@ AWS & DevOps Engineer (in transition) with 8+ years of telecom network engineeri
 
 ## 🔧 Tech Stack
 <h3 align="center">☁️ AWS Cloud </h3>
-
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ec2/ec2-original.svg" width="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/s3/s3-original.svg" width="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vpc/vpc-original.svg" width="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/iam/iam-original.svg" width="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudwatch/cloudwatch-original.svg" width="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/route53/route53-original.svg" width="42"/>
+  <img src="https://cdn.simpleicons.org/amazonaws/FF9900" width="45"/>
 </p>
 
 <h3 align="center">🛠️ DevOps Toolset</h3>
