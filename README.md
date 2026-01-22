@@ -6,7 +6,6 @@ AWS & DevOps Engineer (in transition) with 8+ years of telecom network engineeri
 
 ## 🔧 Tech Stack
 **☁️ AWS Cloud**
-<img src="https://img.icons8.com/3d-fluency/94/amazon-ec2.png" width="60"/>
 ![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white)
 ![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
 ![IAM](https://img.shields.io/badge/IAM-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white)
@@ -22,6 +21,13 @@ AWS & DevOps Engineer (in transition) with 8+ years of telecom network engineeri
 
 - **Programming:** Bash <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40"/>, Linux (Basics) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
 - **Networking:** GPON, OLT/ONT, Routing, Switching, VLAN
+<p align="center">
+  <img src="https://www.svgrepo.com/show/303223/network-device.svg" width="42"/> <!-- OLT -->
+  <img src="https://www.svgrepo.com/show/276264/modem-router.svg" width="42"/> <!-- ONT -->
+  <img src="https://www.svgrepo.com/show/276263/router.svg" width="42"/> <!-- Router -->
+  <img src="https://www.svgrepo.com/show/276266/switch.svg" width="42"/> <!-- Switch -->
+  <img src="https://www.svgrepo.com/show/354260/network.svg" width="42"/> <!-- VLAN -->
+</p>
 
 ## 📫 Contact
 📍 Mumbai, India  
