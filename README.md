@@ -1,7 +1,7 @@
 <h1 align="center"> Hi 👋 I'm Sumit Dorugade <p align="center">
 <h2 align="center">🚀 DevOps Enthusiast | AWS + Terraform + CI/CD Automation </h2>
 
-<div style="background:#cfd8dc;height:3px;width:60%;margin:auto;border-radius:4px;"></div>
+<div style="background:#cfd8dc;height:4px;width:60%;margin:auto;border-radius:6px;"></div>
 <hr style="height:3px;border-width:0;color:gray;background-color:#e5e7eb">
 
 ## 👨‍💻 About Me 
